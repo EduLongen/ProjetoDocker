@@ -35,7 +35,7 @@ Claro, vou reformular o texto do read-me mantendo as descrições e o código in
                     Em qualquer pasta do seu computador, de preferência uma pasta que não possua caracteres especiais.
                 </p>
                 <p>Em seguida, abra o Git Bash e digite o código a seguir:</p>
-                <pre><code>git clone https://github.com/EduLongen/ProjetoDocker</code></pre>
+                <pre><code>git clone git@github.com:EduLongen/ProjetoDocker.git</code></pre>
             </li>
             <li>
                 Com o projeto clonado em sua máquina, acesse a pasta do projeto:
